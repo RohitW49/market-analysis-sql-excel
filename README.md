@@ -1,6 +1,6 @@
 # SQL Market Analytics Project
 
-📊 This project analyzes customer purchasing behavior and product performance using SQL queries on an Instacart-like dataset.
+📊 This project analyzes customer purchasing behavior and product performance using SQL queries.
 
 ## Project Overview
 The goal of this project is to extract insights from retail transaction data by performing SQL-based data cleaning, manipulation, and analysis.  
@@ -55,6 +55,12 @@ The dataset consists of multiple tables that represent orders, products, aisles,
 - Certain aisles dominate product counts, showing potential marketing focus areas.
 - Reorder rates highlight customer loyalty to specific products.
 - Peak hours/days reveal optimal marketing campaign timings.
+
+### ✅ Business Value
+This analysis helps in:  
+- Optimizing **marketing campaigns** by aligning promotions with peak order times and popular products.  
+- Improving **supply chain planning** to ensure stock availability in high-demand aisles.  
+- Enhancing **customer retention** through personalized offers for top users and frequently reordered products.
 
 ## Tools & Skills
 - **SQL**: Joins, Group By, Aggregate functions, Subqueries, Updates.
