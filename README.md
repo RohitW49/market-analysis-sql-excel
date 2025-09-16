@@ -2,9 +2,13 @@
 
 📊 This project analyzes customer purchasing behavior and product performance using SQL queries.
 
+---
+
 ## Project Overview
 The goal of this project is to extract insights from retail transaction data by performing SQL-based data cleaning, manipulation, and analysis.  
 It helps in understanding product trends, customer behavior, and department-level performance for better marketing strategies and customer satisfaction.
+
+---
 
 ## 📌 Project Objectives
 - Understand customer purchasing patterns.
@@ -12,10 +16,14 @@ It helps in understanding product trends, customer behavior, and department-leve
 - Analyze reorder behavior to measure customer loyalty.
 - Provide insights for marketing strategy optimization.
 
+---
+
 ## Tools & Skills
 - **SQL**: Joins, Group By, Aggregate functions, Subqueries, Updates.
 - **Excel**: Data cleaning and preprocessing.
 - **Business Insights**: Customer purchasing behavior & product performance analysis.
+
+---
 
 ## Dataset Information
 The dataset consists of multiple tables that represent orders, products, aisles, and departments.
@@ -25,6 +33,8 @@ The dataset consists of multiple tables that represent orders, products, aisles,
 - **Orders**: Order details (order_id, user_id, order_dow, order_hour_of_day, days_since_prior_order, etc.).
 - **Order Products**: Products in each order with reorder details.
 
+---
+
 ## ⚙️ Steps Performed
 1. **Database Connection** – Connected to MySQL using provided credentials.  
 2. **Data Cleaning** –  
@@ -33,6 +43,8 @@ The dataset consists of multiple tables that represent orders, products, aisles,
    - Re-imported cleaned data into SQL Workbench.  
 3. **SQL Queries & Analysis** – Wrote SQL queries for analytics tasks.  
 4. **Insight Extraction** – Derived business insights and summarized results.
+
+---
 
 ## 📌 Key SQL Tasks
 1. **Top 10 aisles with most products**  
@@ -56,13 +68,23 @@ The dataset consists of multiple tables that represent orders, products, aisles,
 19. **Top 10 customers by order count**  
 20. **Products count by aisle and department**
 
+---
+
 ## 🚀 Insights
 - Certain aisles dominate product counts, showing potential marketing focus areas.
 - Reorder rates highlight customer loyalty to specific products.
 - Peak hours/days reveal optimal marketing campaign timings.
+
+---
 
 ### ✅ Business Value
 This analysis helps in:  
 - Optimizing **marketing campaigns** by aligning promotions with peak order times and popular products.  
 - Improving **supply chain planning** to ensure stock availability in high-demand aisles.  
 - Enhancing **customer retention** through personalized offers for top users and frequently reordered products.
+
+---
+
+## 👨‍💻 Author
+**Rohit Wagh**  
+- 📧 Email: [rohitwagh6264@gmail.com](mailto:rohitwagh6264@egmail.com) 
