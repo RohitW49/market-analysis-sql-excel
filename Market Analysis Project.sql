@@ -1,11 +1,3 @@
--- step we performe in Market Analytics SQL project --
--- step 1   Connect to the Database: Use the provided credentials to establish a connection.
--- step 2   Analyze Tables: Review all tables individually. In the orders table, identify blank spaces in the days_since_prior_order column.
--- step 3   Export Tables: Export all tables as CSV files.
--- stpe 4	Clean Data in Excel: Import the orders table into Excel and fill blank spaces with a random value (e.g., 1212) using the "Transform Data" feature.
--- step 5	Import Tables into SQL Workbench: Re-import all cleaned tables into SQL Workbench.
--- step 6	continue project
-
 SELECT user_id, COUNT(user_id) AS count FROM orders GROUP BY user_id HAVING COUNT(user_id) > 1;
 
 show databases;
