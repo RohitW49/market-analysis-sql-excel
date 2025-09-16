@@ -12,6 +12,11 @@ It helps in understanding product trends, customer behavior, and department-leve
 - Analyze reorder behavior to measure customer loyalty.
 - Provide insights for marketing strategy optimization.
 
+## Tools & Skills
+- **SQL**: Joins, Group By, Aggregate functions, Subqueries, Updates.
+- **Excel**: Data cleaning and preprocessing.
+- **Business Insights**: Customer purchasing behavior & product performance analysis.
+
 ## Dataset Information
 The dataset consists of multiple tables that represent orders, products, aisles, and departments.
 - **Aisles**: Aisle details (aisle_id, aisle).
@@ -61,8 +66,3 @@ This analysis helps in:
 - Optimizing **marketing campaigns** by aligning promotions with peak order times and popular products.  
 - Improving **supply chain planning** to ensure stock availability in high-demand aisles.  
 - Enhancing **customer retention** through personalized offers for top users and frequently reordered products.
-
-## Tools & Skills
-- **SQL**: Joins, Group By, Aggregate functions, Subqueries, Updates.
-- **Excel**: Data cleaning and preprocessing.
-- **Business Insights**: Customer purchasing behavior & product performance analysis.
