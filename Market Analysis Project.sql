@@ -1,4 +1,4 @@
-SELECT user_id, COUNT(user_id) AS count FROM orders GROUP BY user_id HAVING COUNT(user_id) > 1;
+SELECT user_id, COUNT(user_id) AS count FROM orders GROUP BY user_id HAVING COUNT(user_id) > 1; 
 
 show databases;
 use project_orders;
