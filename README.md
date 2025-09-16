@@ -1,4 +1,4 @@
-# SQL Market Analytics Project
+# SQL Market Analysis Project
 
 📊 This project analyzes customer purchasing behavior and product performance using SQL queries.
 
