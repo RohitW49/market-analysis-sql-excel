@@ -87,4 +87,4 @@ This analysis helps in:
 
 ## 👨‍💻 Author
 **Rohit Wagh**  
-- 📧 Email: [rohitwagh6264@gmail.com](mailto:rohitwagh6264@egmail.com) 
+- 📧 Email: [rohitwagh6264@gmail.com](mailto:rohitwagh6264@gmail.com)
