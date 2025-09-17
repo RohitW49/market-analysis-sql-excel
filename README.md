@@ -39,8 +39,7 @@ The dataset consists of multiple tables that represent orders, products, aisles,
 1. **Database Connection** – Connected to MySQL using provided credentials.  
 2. **Data Cleaning** –  
    - Filled missing values.  
-   - Adjusted anomalies.  
-   - Re-imported cleaned data into SQL Workbench.  
+   - Adjusted anomalies.   
 3. **SQL Queries & Analysis** – Wrote SQL queries for analytics tasks.  
 4. **Insight Extraction** – Derived business insights and summarized results.
 
